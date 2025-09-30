@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "email": "admin@isp.com",
+      "phone": "1234567890",
+      "registrationDate": "2024-01-01"
+    }
+  ]
+}
+
